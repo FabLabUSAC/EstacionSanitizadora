@@ -15,3 +15,4 @@ cable del calibre 22
 Perfiles 20x20
 Caja para proyectos
 tornillos 3M
+Tubo para cable
